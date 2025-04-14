@@ -1,10 +1,10 @@
-# 🔍 Object Detection Demo
+# Object Detection Demo
 
 🚀 Try it live on [Hugging Face Spaces](https://huggingface.co/spaces/Ibrahimnasser/streamlit_yolo)
 
 This is a simple, interactive Streamlit app that lets you perform object detection using **YOLOv5**.
 
-## 🧠 What is YOLO?
+## What is YOLO?
 
 **YOLO (You Only Look Once)** is a real-time object detection system. It processes the image in one forward pass and predicts bounding boxes and class labels with remarkable speed.
 
